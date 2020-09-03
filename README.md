@@ -12,7 +12,8 @@ simply run the finished result, see the [quickstart app][quickstart].
 
 ## Setup
 
-Follow the [Cloud Firestore Web Codelab][codelab] to set up this sample.
+Follow the [Cloud Firestore Web Codelab](https://codelabs.developers.google.com/codelabs/firestore-web/#0) to set up this sample.
+
 
 ## License
 
