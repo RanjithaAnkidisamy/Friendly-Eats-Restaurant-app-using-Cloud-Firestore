@@ -26,3 +26,6 @@ Follow the [Cloud Firestore Web Codelab][codelab] to set up this sample.
 [codelab]: https://codelabs.developers.google.com/codelabs/firestore-web
 [quickstart]: https://github.com/firebase/quickstart-js/tree/master/firestore
 [firestore-docs]: https://firebase.google.com/docs/firestore/
+
+## Sample UI
+![alt text](https://github.com/RanjithaAnkidisamy/Friendly-Eats-Restaurant-app-using-Cloud-Firestore/blob/master/Friendly%20Eats%20UI/friendly_eats.JPG?raw=true)
